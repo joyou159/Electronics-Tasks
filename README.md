@@ -1,2 +1,4 @@
-# Electronics-Tasks
-This repo contains couple of electronics projects, namely, hearing aid using BJT transistors, and simple door lock using Verilog  
+# Verilog-Based Simple Door Lock
+
+Check the `guide_report` PDF to get an overview of the project.   
+
